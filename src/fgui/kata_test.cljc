@@ -1,8 +1,7 @@
 (ns fgui.kata-test
   (:require [fgui.kata :as sut]
             #?(:clj [clojure.test :as t]
-               :cljs [cljs.test :as t :include-macros true]))
-  )
+               :cljs [cljs.test :as t :include-macros true])))
 
 (t/deftest my-function-test
    (t/testing "simple test"
