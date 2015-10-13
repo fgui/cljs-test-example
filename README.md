@@ -10,4 +10,4 @@ Don't understand why when we use a cljc for
 test we must specify the namespace to run test in clojure
 (not needed in clojurescript).
 
-boot js test environment configured to use slimerjs.org
+boot js test environment configured to use [slimerjs](http://slimerjs.org)
